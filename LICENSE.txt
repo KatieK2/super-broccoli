@@ -1,3 +1,8 @@
+The following included software elements remain the property of their 
+original authors and carry their original software licenses:
+
+ * Slate: https://pages-themes.github.io/slate/
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
